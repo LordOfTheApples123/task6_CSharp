@@ -1,0 +1,11 @@
+C:\Users\ruskh\RiderProjects\task6_v2\task6_v2\bin\Debug\task6_v2.exe.config
+C:\Users\ruskh\RiderProjects\task6_v2\task6_v2\bin\Debug\task6_v2.exe
+C:\Users\ruskh\RiderProjects\task6_v2\task6_v2\bin\Debug\task6_v2.pdb
+C:\Users\ruskh\RiderProjects\task6_v2\task6_v2\obj\Debug\task6_v2.csproj.AssemblyReference.cache
+C:\Users\ruskh\RiderProjects\task6_v2\task6_v2\obj\Debug\task6_v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ruskh\RiderProjects\task6_v2\task6_v2\obj\Debug\task6_v2.Properties.Resources.resources
+C:\Users\ruskh\RiderProjects\task6_v2\task6_v2\obj\Debug\task6_v2.csproj.GenerateResource.cache
+C:\Users\ruskh\RiderProjects\task6_v2\task6_v2\obj\Debug\task6_v2.csproj.CoreCompileInputs.cache
+C:\Users\ruskh\RiderProjects\task6_v2\task6_v2\obj\Debug\task6_v2.exe
+C:\Users\ruskh\RiderProjects\task6_v2\task6_v2\obj\Debug\task6_v2.pdb
+C:\Users\ruskh\RiderProjects\task6_v2\task6_v2\obj\Debug\task6_v2.Form1.resources
